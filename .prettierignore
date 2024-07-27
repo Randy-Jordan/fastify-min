@@ -1,0 +1,13 @@
+#
+*.min.js
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled files
+dist/
+build/
+out/
+
+# Ignore specific files
+*.log
+.DS_Store
