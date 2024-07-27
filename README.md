@@ -12,12 +12,13 @@ Barebones fastify app to serve static content. Makes use of [icofonts](https://m
 
 ## Features / TODO
 
-- [] Serve static files
-- [] Server health route
+- [x] Serve static files
+- [x] Server health route
+- [x] Icofonts
 
 
 ## Credits / Resources
-I will try to list all the resources used for these files, both here and in the file. 
-
+[Fastify Docs](https://fastify.dev/docs/latest/Guides/Getting-Started/)<br>
+[Fastify Example App](https://github.com/delvedor/fastify-example)<br>
 ## License
 This project is licensed under GPLv3 - see the [LICENSE](LICENSE) file for details.
